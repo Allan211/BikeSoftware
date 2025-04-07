@@ -1,20 +1,27 @@
-# Sistema de Gerenciamento de Loja de Bicicletas
+markdown 
 
-**Status do projeto:** Em desenvolvimento
+CopiarEditar 
 
-## Tecnologias utilizadas:
-- Java
-- NetBeans
-- Git / GitHub
-
-## Time de Desenvolvedores:
-- Allan Otavio Pereira Reis
-
-## Objetivo do Software:
-Este sistema foi desenvolvido para facilitar a gestão do estoque, pagamentos e controle de bicicletas do estoque da loja.
-
-## Funcionalidades:
-- Cadastro de Bicicletas
-- Registro de vendas
-- Gerenciamento de estoque 
+# Sistema de Gerenciamento de Bicicletas – BikeSoftware 
+ 
+**Status do Projeto:** 🟡 Em desenvolvimento 
+ 
+## 🛠 Tecnologias Utilizadas: 
+- Java 
+- NetBeans 
+- Git e GitHub 
+ 
+## 👨‍💻 Time de Desenvolvedores: 
+- Otávio 
+ 
+## 🎯 Objetivo do Software: 
+O software tem como finalidade gerenciar uma loja de bicicletas, permitindo o cadastro de produtos, clientes e o controle de vendas, incluindo o cálculo de impostos como PIS e IPI. 
+ 
+## ✅ Funcionalidades do Sistema: 
+- Cadastro de bicicletas 
+- Cadastro de usuários/clientes 
 - Controle de vendas 
+- Interface gráfica para gerenciamento 
+- Conexão com banco de dados 
+- Geração de relatórios 
+ 
